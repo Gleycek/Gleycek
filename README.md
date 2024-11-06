@@ -18,7 +18,7 @@
 
 <div align="center"> 
   <h3 align="left">Estatísticas do Git</h3>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Gleycek&show_icons=true&count_private=true&hide_border=true&title_color=D41b22&icon_color=D41b22&text_color=ffffff&bg_color=0d1117" alt="Gleycek's github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=Gleycek&show_icons=true&count_private=true&hide_border=true&title_color=D41b4&icon_color=D41b4&text_color=ffffff&bg_color=0d1117" alt="Gleycek's github stats" /> 
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleycek&layout=compact&hide_border=true&title_color=D41b22&text_color=ffffff&bg_color=0d1117" />
 </div>
 
